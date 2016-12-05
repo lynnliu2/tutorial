@@ -12,6 +12,7 @@ namespace Script
     {
         public int Action()
         {
+        	lr.log_message("this is a demostration.");
             return 0;
         }
     }
